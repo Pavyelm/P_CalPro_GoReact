@@ -10,7 +10,6 @@
 
 ## Demo IMG
 Coming soon!
-![MainPage](img.png)
-![Results](img.png)
-![Results](img.png)
+![img](img.png)
+
 
